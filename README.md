@@ -22,3 +22,7 @@ mm
 ```
 segundo dados
 ```
+
+![grafico](/C:\Users\rjoan\OneDrive - Universidade de Coimbra\github_ws\viz.svg)
+
+n deu
